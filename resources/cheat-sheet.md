@@ -1,6 +1,6 @@
 # **Java Cheat-Sheet**
 
-## **1. Basic Syntax**
+## **Basic Syntax**
 - **Print to Console**:  
 ```java
 System.out.println("Hello, World!");
@@ -13,7 +13,7 @@ public static void main(String[] args) {
 }
 ```
 
-## **2. Variables & Data Types**
+## **Variables & Data Types**
 - **Primitive Data Types**:
   - `int`: Integer numbers
   - `double`: Floating-point numbers
@@ -33,7 +33,7 @@ String name = "John";  // String is an object
 int[] arr = {1, 2, 3};  // Array
 ```
 
-## **3. Operators**
+## **Operators**
 - **Arithmetic**: `+`, `-`, `*`, `/`, `%`
 - **Relational**: `==`, `!=`, `>`, `<`, `>=`, `<=`
 - **Logical**: `&&`, `||`, `!`
@@ -44,7 +44,18 @@ int sum = 5 + 10;  // 15
 boolean result = (5 > 3);  // true
 ```
 
-## **4. Control Flow**
+## **Math**
+```java
+int negativeValue = -25;
+
+int absoluteValue = Math.abs(negativeValue) // 25
+
+int squaredValue = Math.abs(absoluteValue) // 5
+
+double randomNumber = Math.random() // random number between 0 and 1
+```
+
+## **Control Flow**
 - **If-Else**:
 ```java
 if (x > 5) {
@@ -77,7 +88,7 @@ switch (day) {
   }
   ```
 
-## **5. Methods**
+## **Methods**
 - **Method Declaration**:
 ```java
 public static void methodName() {
@@ -102,7 +113,7 @@ public static void print(String text) {
 }
 ```
 
-## **6. Arrays**
+## **Arrays**
 - **Declaration and Initialization**:
 ```java
 int[] arr = new int[5];  // Array with 5 elements
