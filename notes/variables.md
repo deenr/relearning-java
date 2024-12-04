@@ -1,6 +1,4 @@
-# Java Basics  
-
-## Variables and Data Types  
+# Variables 
 - Java is statically typed: every variable must have a type.  
 - Primitive types:
 
