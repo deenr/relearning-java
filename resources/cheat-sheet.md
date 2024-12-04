@@ -55,6 +55,16 @@ int squaredValue = Math.abs(absoluteValue) // 5
 double randomNumber = Math.random() // random number between 0 and 1
 ```
 
+## **Random**
+```java
+import java.util.Random;
+
+int range = 10;
+int start = 1;
+
+int randomNumber = random.nextInt(range) + start;
+```
+
 ## **Control Flow**
 - **If-Else**:
 ```java
