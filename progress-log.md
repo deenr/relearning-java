@@ -9,8 +9,8 @@
 
 ## **Core Java Basics**
 ### 1. **Variables and Data Types**
-- [ ] Learn about primitive data types (`int`, `double`, `char`, `boolean`).
-- [ ] Learn about non-primitive data types (`String`, arrays, objects).
+- [x] Learn about primitive data types (`int`, `double`, `char`, `boolean`).
+- [x] Learn about non-primitive data types (`String`, arrays, objects).
 - [ ] Practice type conversion and casting.
 
 ### 2. **Operators**
