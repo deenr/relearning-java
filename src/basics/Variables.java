@@ -1,3 +1,7 @@
+/**
+ *
+ * @author reymen
+*/
 public class Variables {
     public static void main(String[] args) {
         boolean a = true;
@@ -9,10 +13,10 @@ public class Variables {
         short c = 10000;
         System.out.println("This is a short with value " + c);
 
-        int d = 2000000000;
+        int d = 1234567890;
         System.out.println("This is a int with value " + d);
 
-        long e = 7987654;
+        long e = 780000000000000000L;
         System.out.println("This is a long with value " + e);
 
         float f = 0.12345f;
