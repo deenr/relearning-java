@@ -13,12 +13,12 @@ public class RandomExample {
 
         int randomNumber = random.nextInt(range) + start;
 
-        System.err.println("A random number between " + start + " and " + range + " is " + randomNumber);
+        System.out.println("A random number between " + start + " and " + range + " is " + randomNumber);
 
         double number = random.nextDouble();
-        System.err.println(number);
+        System.out.println(number);
 
         boolean booleanValue = random.nextBoolean();
-        System.err.println(booleanValue);
+        System.out.println(booleanValue);
     }
 }
