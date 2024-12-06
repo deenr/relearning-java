@@ -136,3 +136,10 @@ for (int num : arr) {
     System.out.println(num);
 }
 ```
+
+## **Final keyword**
+```java
+final double pi = 3.14159;
+
+pi = 3.1416; // not possible because the variable pi is final, so once set it can't be changed
+```
