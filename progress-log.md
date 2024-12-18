@@ -11,41 +11,40 @@
 ### 1. **Variables and Data Types**
 - [x] Learn about primitive data types (`int`, `double`, `char`, `boolean`).
 - [x] Learn about non-primitive data types (`String`, arrays, objects).
-- [ ] Practice type conversion and casting.
+- [x] Practice type conversion and casting.
 
 ### 2. **Operators**
-- [ ] Learn and practice arithmetic operators (`+`, `-`, `*`, `/`, `%`).
-- [ ] Understand relational operators (`==`, `!=`, `>`, `<`, `>=`, `<=`).
-- [ ] Learn logical operators (`&&`, `||`, `!`).
-- [ ] Practice assignment operators (`=`, `+=`, `-=`, etc.).
-- [ ] Learn operator precedence and associativity.
+- [x] Learn and practice arithmetic operators (`+`, `-`, `*`, `/`, `%`).
+- [x] Understand relational operators (`==`, `!=`, `>`, `<`, `>=`, `<=`).
+- [x] Learn logical operators (`&&`, `||`, `!`).
+- [x] Practice assignment operators (`=`, `+=`, `-=`, etc.).
 
 ### 3. **Control Flow**
-- [ ] Understand and implement `if` statements.
-- [ ] Learn and practice `switch` statements.
-- [ ] Master `while` loops and `for` loops.
-- [ ] Learn nested loops and their use cases.
+- [x] Understand and implement `if` statements.
+- [x] Learn and practice `switch` statements.
+- [x] Master `while` loops and `for` loops.
+- [x] Learn nested loops and their use cases.
 - [ ] Understand and practice using `break` and `continue` statements.
 
 ---
 
 ## **Advanced Concepts**
 ### 4. **Arrays and Collections**
-- [ ] Practice using 1D arrays.
-- [ ] Work with 2D arrays.
-- [ ] Learn how to use ArrayLists and practice adding, removing, and modifying elements.
+- [x] Practice using 1D arrays.
+- [x] Work with 2D arrays.
+- [x] Learn how to use ArrayLists and practice adding, removing, and modifying elements.
 
 ### 5. **Methods and Functions**
-- [ ] Understand method creation and invocation.
-- [ ] Learn about method overloading and its importance.
+- [x] Understand methods.
+- [x] Learn about method overloading and its importance.
 - [ ] Learn the differences between instance and static methods.
 - [ ] Practice writing and using recursive methods.
 
 ### 6. **Object-Oriented Programming (OOP) Concepts**
-- [ ] Learn about classes and objects.
-- [ ] Understand the concept of constructors and their use.
-- [ ] Practice creating and using objects in Java.
-- [ ] Learn about the `this` keyword.
+- [x] Learn about classes and objects.
+- [x] Understand the concept of constructors and their use.
+- [x] Practice creating and using objects in Java.
+- [x] Learn about the `this` keyword.
 
 ### 7. **Inheritance and Polymorphism**
 - [ ] Understand inheritance and the `extends` keyword.
