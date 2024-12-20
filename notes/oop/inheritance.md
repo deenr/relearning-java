@@ -76,6 +76,7 @@ public class Main {
 ## Private Memberss
 - Private fields/methods of a superclass are not accessible in the subclass.
 - Use `protected` or `public` to allow access in child classes.
+- Side note: <em>Protected members can be accessed within the same package, and by subclasses.</em>
 
 ```java
 class Vehicle {
